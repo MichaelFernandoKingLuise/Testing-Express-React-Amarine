@@ -1,0 +1,1 @@
+A web-based company profile for Amarine, developed using HTML, CSS, Bootstrap, JavaScript, and React. It is fully responsive and optimized for various devices to enhance user engagement. The site is designed with a user-friendly interface and modern UI/UX elements for seamless navigation. 
